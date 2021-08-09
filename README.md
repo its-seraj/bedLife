@@ -7,4 +7,4 @@ Initiated from : 9th AUG 2021
 <hr />
 
 ## Table of Contents :
-- <b>[Requirements](.init/requrements.md)</b>
+- <b>[Requirements](.init/requirements.md)</b>
