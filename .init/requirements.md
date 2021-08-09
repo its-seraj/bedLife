@@ -20,5 +20,3 @@
 - delete hospital
 - 
 
-hello
-world
