@@ -14,7 +14,7 @@ Initiated on : 9th AUG 2021
 ### Our Model :
 - Planning ✔️
 - Requirements ✔️
-- Design
+- Design ✔️
 - Coding
 - Testing
 - Deployment
