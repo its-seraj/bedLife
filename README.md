@@ -8,3 +8,14 @@ Initiated on : 9th AUG 2021
 
 ## Table of Contents :
 - <b>[Requirements](.init/requirements.md)</b>
+- 
+
+
+### Our Model :
+- Planning
+- Requirements
+- Design
+- Coding
+- Testing
+- Deployment
+- Maintainance
