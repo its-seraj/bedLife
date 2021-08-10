@@ -8,7 +8,7 @@ Initiated on : 9th AUG 2021
 
 ## Table of Contents :
 - <b>[Requirements](.init/requirements.md)</b>
-- 
+- <b>[Design] (.init/design.md)</b>
 
 
 ### Our Model :
