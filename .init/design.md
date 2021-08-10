@@ -3,7 +3,7 @@
 
 ### Topbar
 - logo
-- searchbar
+- location
 - accounts
 - Theme
 
